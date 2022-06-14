@@ -10,6 +10,10 @@ la norme RGB. Plus précisément, chaque pixel dispose de trois composantes : R
 2/Flou et Flou itératif
 3/Effet diapositive 
 4/Niveau de gris
+5/Effet noir et blanc,
+6/Détection de contours,
 
 
 ET AUTRES .... 
+
+MOT CLES : CUDA , traitement d'images.
